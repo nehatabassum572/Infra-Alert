@@ -60,3 +60,37 @@ npm run dev
 
 The app will be available at:
 http://localhost:5000
+
+---
+
+## Snippets of the Website
+
+### 1. Home Page
+<p align="center">
+  <img src="demo-imgs/home.png" width="600"/>
+</p>
+
+### 2. Sign In
+<p align="center">
+  <img src="demo-imgs/sign-in.png" width="600"/>
+</p>
+
+### 3. User Dashboard
+<p align="center">
+  <img src="demo-imgs/user-dashboard.png" width="600"/>
+</p>
+
+### 4. Report Issue
+<p align="center">
+  <img src="demo-imgs/reportIssue-card.png" width="600"/>
+</p>
+
+### 5. Admin Dashboard
+<p align="center">
+  <img src="demo-imgs/admin-dashboard.png" width="600"/>
+</p>
+
+### 6. Admin Console
+<p align="center">
+  <img src="demo-imgs/admin-console.png" width="600"/>
+</p>
